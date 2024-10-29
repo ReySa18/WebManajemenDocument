@@ -10,12 +10,16 @@ Fitur
 - Multilevel user
 - Fitur backup dan restore database
 
-Sebelum menggunakan aplikasi ini silakan atur konfigurasi database terlebih dahulu. Caranya,
+Admin:
+User = Admin
+Password = admin123
 
-- Buka folder **include** lalu edit file **config.php** lalu sesuaikan `username`, `password` dan `database` dengan yang Anda gunakan.
+User:
+username = userakun
+Password = user123
 
 Untuk tampilan terbaik, gunakan browser Google Chrome versi terbaru.
-
+Url Aplikasi: http://149.129.221.38/
 Inspired by Masrud
 
 ---
