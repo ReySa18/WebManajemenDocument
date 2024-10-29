@@ -1,6 +1,6 @@
 # Aplikasi sederhana manajemen surat dengan PHP MySQLi
 
-Aplikasi ini untuk mengelola pencatatan surat masuk dan surat keluar (disposisi). Dilengkapi beberapa fitur, antara lain :
+Fitur
 
 - Cetak disposisi surat masuk
 - Cetak agenda surat masuk dan keluar berdasarkan tanggal tertentu
@@ -16,8 +16,6 @@ Sebelum menggunakan aplikasi ini silakan atur konfigurasi database terlebih dahu
 
 Untuk tampilan terbaik, gunakan browser Google Chrome versi terbaru.
 
-Inspired by Nur Akhwam.
+Inspired by Masrud
 
 ---
-
-Informasi lengkap seputar `username` dan `password` untuk login bisa dilihat di https://masrud.com/aplikasi-manajemen-surat/?utm_source=github.com&utm_medium=readme.md&utm_campaign=ams-native
